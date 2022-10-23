@@ -3,7 +3,7 @@
 
 if (isset($_POST['parametro']) && $_POST['parametro'] == 'modalEleicoes') {
 
-    $pagina = file_get_contents('../eleicoes/index.html');
+    $pagina = file_get_contents('../Eleicoes/index.html');
     echo $pagina;
 
 } 
