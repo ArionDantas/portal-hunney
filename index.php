@@ -282,8 +282,8 @@
       <p class="float-end mb-1">
         <a class="text-white" href="#">Back to top</a>
       </p>
-      <p class="mb-1">Album example is &copy; Bootstrap, but please download and customize it for yourself!</p>
-      <p class="mb-0">New to Bootstrap? <a class="a text-white" href="/">Visit the homepage</a> or read our <a class="a2 text-white" href="/docs/5.2/getting-started/introduction/">getting started guide</a>.</p>
+      <p class="mb-1">Site desenvolvido para o trabalho de português.</p>
+      <p class="mb-0">Alunos: Arion Dantas 3v1, Michel Batista 3v2 e Marcos Guilherme 3v3</p>
     </div>
   </footer>
   <script src="js/script.js"></script>
