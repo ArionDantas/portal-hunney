@@ -142,7 +142,7 @@
             <div class="card shadow-sm">
               <img src="images/eleicoes/foto-cadidatos.jpg" class="img-fluid" alt="Hunney" style="width:100%; heigh: 255px;">
               <div class="card-body">
-              <p class="card-text"><a href="#" id="eleicoes"6 >Eleicões para presidencia.</a></p>
+              <p class="card-text"><a href="#eleicoes" id="eleicoes">Eleicões para presidencia.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   </div>
@@ -152,9 +152,9 @@
           </div>
           <div class="col col-lg col-md col-sm" id="modalInterclasse">
             <div class="card shadow-sm">
-              <img src="images/esporte/interclasse.jpg" alt="Hunney" style="width:100% heigh: 255px;">
+              <img src="images/esporte/interclasse.jpg" alt="Hunney" style="width:100% height: 255px;">
               <div class="card-body">
-                <p class="card-text"><a href="#">Esporte / Interclasse no Hunney.</a></p>
+                <p class="card-text"><a href="#esporte-interclasse"> Esporte / Interclasse no Hunney.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   </div>
@@ -167,7 +167,7 @@
             <div class="card shadow-sm">
               <img src="images/feira/feira-de-negocios.jpg" alt="hunney">
               <div class="card-body">
-                <p class="card-text"><a href="#">1° Feira de negócios do Hunney.</a></p>
+                <p class="card-text"><a href="#feira-de-negocios">1° Feira de negócios do Hunney.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   </div>
@@ -180,7 +180,7 @@
             <div class="card shadow-sm">
                 <img src="images/palestra/Sem título.png" alt="hunney">
               <div class="card-body">
-                <p class="card-text"> <a href="#">Palestra da PRF, no Hunney.</a></p>
+                <p class="card-text"><a href="#palestra-prf">Palestra da PRF, no Hunney.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   </div>
@@ -192,7 +192,7 @@
             <div class="card shadow-sm">
               <img src="images/semana-estudante/semana-do-estudante.png" alt="hunney">
               <div class="card-body">
-                <p class="card-text">Semana do Estudante</p>
+                <p class="card-text"><a href="#semana-do-estudante">Semana do Estudante.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   </div>
@@ -204,7 +204,7 @@
             <div class="card shadow-sm">
             <img src="images/logo-poli/hunney-everest-piovesan.png" alt="hunney">
               <div class="card-body">
-                <p class="card-text">Noticias em breve</p>
+                <p class="card-text"><a href="#noticias-em-breve">Notícias em breve.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   </div>
