@@ -129,7 +129,7 @@
         <div class="col-lg-6 col-md-8 mx-auto">
           <h1 class="fw-light">Documentário sobre os 50 anos do Hunney Everest Piovesan</h1>
           <br>
-          <iframe width="560" height="315" src="https://www.youtube.com/embed/ac_fBOTkeME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/ac_fBOTkeME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </section>
