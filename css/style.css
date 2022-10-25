@@ -49,7 +49,7 @@ footer {
 }
 
 p{
-    font-size: 22px;
+    font-size: 18px;
 }
 
 /* .imagem-presidentes {
@@ -150,4 +150,8 @@ a:hover {
     text-align: center;
     white-space: nowrap;
     -webkit-overflow-scrolling: touch;
-  }
+}
+
+.contato {
+    color: var(--bs-white);
+}

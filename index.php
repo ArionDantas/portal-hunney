@@ -111,8 +111,10 @@
             <h4 class="text-white">Contato</h4>
             <ul class="list-unstyled">
               <li><a href="https://www.facebook.com/escolahunney" class="text-white">Curta nosso Facebook</a></li>
-              <li><a href="https://www.facebook.com/escolahunney" class="text-white">Whatsapp</a></li>
-              <li><a href="https://gmail.com.br/send/ariondantas027@gmail.com" class="text-white">Nosso e-mail</a></li>
+              <li class="text-white">Whatsapp</li>
+              <li class="text-white">(27)9 9999-9999</li>
+              <li class="text-white">Nosso e-mail</li>
+              <li class="text-white">emailescola@gmail.com</li>
             </ul>
           </div>
         </div>
@@ -125,13 +127,9 @@
     <section class="py-5 text-center container">
       <div class="row py-lg-5">
         <div class="col-lg-6 col-md-8 mx-auto">
-          <h1 class="fw-light">Portal de Notícias</h1>
-          <p class="lead text-muted">Aqui podemos colocar em destaque o documentário falando sobre os 50 anos do hunney
-            btf</p>
-          <p>
-            <a href="#" class="btn btn-primary my-2">Main call to action</a>
-            <a href="#" class="btn btn-secondary my-2">Secondary action</a>
-          </p>
+          <h1 class="fw-light">Documentário sobre os 50 anos do Hunney Everest Piovesan</h1>
+          <br>
+          <iframe width="560" height="315" src="https://www.youtube.com/embed/ac_fBOTkeME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </section>
@@ -142,19 +140,19 @@
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
           <div class="col col-lg col-md col-sm" id="modalEleicoes">
             <div class="card shadow-sm">
-              <img src="images/eleicoes/foto-cadidatos.png" class="img-fluid" style="width: 400px; height: 274px;" alt="Hunney">
+              <img src="images/eleicoes/foto-cadidatos.jpg" class="img-fluid" alt="Hunney" style="width:100%; heigh: 255px;">
               <div class="card-body">
-                <p class="card-text"><a href="#">Eleicões para presidencia no Hunney.</a></p>
+              <p class="card-text"><a href="#" id="eleicoes"6 >Eleicões para presidencia.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   </div>
                 </div>
-              </div>
+              </div> 
             </div>
           </div>
           <div class="col col-lg col-md col-sm" id="modalInterclasse">
             <div class="card shadow-sm">
-              <img src="images/esporte/esporte.jpg" alt="Hunney">
+              <img src="images/esporte/interclasse.jpg" alt="Hunney" style="width:100% heigh: 255px;">
               <div class="card-body">
                 <p class="card-text"><a href="#">Esporte / Interclasse no Hunney.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -192,9 +190,9 @@
           </div>
           <div class="col col-lg col-md col-sm" id="modalSemanaEstudante">
             <div class="card shadow-sm">
-              <img src="images/logo-poli/hunney-everest-piovesan.png" alt="hunney">
+              <img src="images/semana-estudante/semana-do-estudante.png" alt="hunney">
               <div class="card-body">
-                <p class="card-text">Semana do Estudante no Hunney</p>
+                <p class="card-text">Semana do Estudante</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   </div>
@@ -206,7 +204,7 @@
             <div class="card shadow-sm">
             <img src="images/logo-poli/hunney-everest-piovesan.png" alt="hunney">
               <div class="card-body">
-                <p class="card-text">Aqui adicionamos um título para matéria.</p>
+                <p class="card-text">Noticias em breve</p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   </div>
@@ -215,7 +213,7 @@
             </div>
           </div>
 
-          <div class="col col-lg col-md col-sm">
+          <!-- <div class="col col-lg col-md col-sm">
             <div class="card shadow-sm">
             <img src="images/logo-poli/hunney-everest-piovesan.png" alt="hunney">
               <div class="card-body">
@@ -253,7 +251,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> -->
 
   </main>
 
