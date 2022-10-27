@@ -89,16 +89,11 @@
 
     <div class="navbar">
       <div class="container">
-        <!-- <a href="#" class="navbar-brand d-flex align-items-center"> -->
-        <!-- <img class="school" src="/images/school_white_24dp.svg" alt="Hunney"> -->
         <strong class="portal">Portal Hunney</strong>
-        <!-- </a> -->
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarHeader" aria-controls="navbarHeader" aria-expanded="false" aria-label="Toggle navigation">
           <span class="navbar-toggler-icon" onclick="clickMenu()"></span>
         </button>
-      </div>
-    </div>
-    <div id="itens" class="collapse" id="navbarHeader">
+     <div id="itens" class="collapse" id="navbarHeader">
       <div class="container">
         <div class="row">
           <div class="col-sm-8 col-md-7 py-4">
@@ -123,7 +118,7 @@
           </div>
         </div>
       </div>
-    </div>
+    </div> 
   </header>
 
   <main>
@@ -158,7 +153,7 @@
             <div class="card shadow-sm" style="width:100%; height:100%;">
               <img src="images/esporte/interclasse.jpg" alt="Hunney" style="height:100%;">
               <div class="card-body">
-                <p class="card-text"><a href="#esporte-interclasse"> Esporte / Interclasse no Hunney.</a></p>
+                <p class="card-text"><a href="#esporte-interclasse"> Esportes.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   </div>
@@ -217,45 +212,6 @@
             </div>
           </div>
 
-          <!-- <div class="col col-lg col-md col-sm">
-            <div class="card shadow-sm">
-            <img src="images/logo-poli/hunney-everest-piovesan.png" alt="hunney">
-              <div class="card-body">
-                <p class="card-text">Aqui adicionamos um título para matéria.</p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col col-lg col-md col-sm">
-            <div class="card shadow-sm">
-            <img src="images/logo-poli/hunney-everest-piovesan.png" alt="hunney">
-              <div class="card-body">
-                <p class="card-text">Aqui adicionamos um título para matéria.</p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-          <div class="col col-lg col-md col-sm">
-            <div class="card shadow-sm">
-            <img src="images/logo-poli/hunney-everest-piovesan.png" alt="hunney">
-              <div class="card-body">
-                <p class="card-text">Aqui adicionamos um título para matéria.</p>
-                <div class="d-flex justify-content-between align-items-center">
-                  <div class="btn-group">
-                  </div>
-                </div>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </div> -->
 
   </main>
 
