@@ -150,9 +150,9 @@
           </div>
           <div class="col col-lg col-md col-sm" id="modalInterclasse">
             <div class="card shadow-sm" style="width:100%; height:100%;">
-              <img src="images/esporte/interclasse.jpg" alt="Hunney" style="height:100%;">
+              <img src="images/esporte/jogos-na-rede.png" alt="Hunney" style="height:100%;">
               <div class="card-body">
-                <p class="card-text"><a href="#esporte"> Esportes.</a></p>
+                <p class="card-text"><a href="#esporte">Jogos na rede.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   </div>
@@ -163,7 +163,7 @@
 
           <div class="col col-lg col-md col-sm" id="modalFeira">
             <div class="card shadow-sm" style="width:100%; height:100%;">
-              <img src="images/feira/feira-de-negocios.jpg" alt="hunney" style="height:100%;">
+              <img src="images/feira/feira-negocios.png" alt="hunney" style="height:100%;">
               <div class="card-body">
                 <p class="card-text"><a href="#feira-de-negocios">1° Feira de negócios do Hunney.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -176,7 +176,7 @@
 
           <div class="col col-lg col-md col-sm" id="modalPalestra"> 
             <div class="card shadow-sm" style="width:100%; height:100%;">
-                <img src="images/palestra/Sem título.png" alt="hunney" style="height:100%;">
+                <img src="images/palestra/sem-titulo.png" alt="hunney" style="height:100%;">
               <div class="card-body">
                 <p class="card-text"><a href="#palestra-prf">Palestra da PRF, no Hunney.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
