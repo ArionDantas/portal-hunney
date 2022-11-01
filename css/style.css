@@ -54,7 +54,7 @@ p{
 
     
 .fw-light {
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Anton', sans-serif;
     margin: 0px;
     padding-top: 0px;
     color: #5d99c6
@@ -78,7 +78,7 @@ h2 {
     margin: 0px auto;
 }
 
-.div-conteudo {
+.p {
     padding: 1% 1% 1% 1%;
     max-width: 800px;
     margin: 0px auto;
@@ -100,10 +100,6 @@ a {
 
 a:hover {
     opacity: 0.7;
-}
-
-.text-black { 
-    text-align: justify ;
 }
 
 .bd-placeholder-img {

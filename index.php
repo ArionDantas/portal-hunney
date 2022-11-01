@@ -98,8 +98,7 @@
         <div class="row">
           <div class="col-sm-8 col-md-7 py-4">
             <h4 class="text-white">Sobre</h4>
-            <p class="text-black">Este é um portal de notícias online da escola estadual Hunney Everest Piovesan. Este
-              portal tem como finalidade noticiar os principais acontecimentos da escola como: eventos, histórias,
+            <p class="text-black">Este é um portal de notícias online da escola estadual Hunney Everest Piovesan. Nele temos como finalidade noticiar os principais acontecimentos da escola como: eventos, histórias,
               trabalhos dos alunos, etc...</p>
           </div>
           <div class="col-sm-4 offset-md-1 py-4">
@@ -238,7 +237,7 @@
   <footer class="py-5">
     <div class="container">
       <p class="float-end mb-1">
-        <a class="text-white" href="#">Back to top</a>
+        <a class="text-white" href="#">Voltar ao topo</a>
       </p>
       <p class="mb-1">Site desenvolvido para o trabalho de português.</p>
       <p class="mb-0">Alunos: Arion Dantas 3v1, Michel Batista 3v2 e Marcos Guilherme 3v3</p>
