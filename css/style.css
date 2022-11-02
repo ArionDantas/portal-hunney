@@ -165,7 +165,7 @@ img {
     padding-top: 30px;
 }
 
-/* h5 {
-    padding-top: 20px;
-    padding-bottom: 20px;
-} */
+.container div-conteudo,
+.container-fluid font-modal {
+    padding: 1% 1% 1% 1%;
+}
