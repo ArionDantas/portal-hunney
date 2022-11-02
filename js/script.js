@@ -57,3 +57,13 @@ $("#modalSemanaEstudante").click(function () {
         $("#estrutura-modal").modal("show")
     });
 });
+
+$("#modalInterclasseFut").click(function () {
+    
+    $.post("backend/arquivo.php", { parametro: 'modalInterclasseFut' }, function (result) {
+
+        $("#main-container").html(result);
+
+        $("#estrutura-modal").modal("show")
+    });
+});
