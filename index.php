@@ -127,7 +127,7 @@
         <div class="col-lg-6 col-md-8 mx-auto">
           <h1 class="fw-light">Documentário sobre os 50 anos do Hunney Everest Piovesan</h1>
           <br>
-          <iframe width="100%" height="315" src="https://www.youtube.com/embed/ac_fBOTkeME" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+          <iframe width="100%" height="315" src="https://www.youtube.com/embed/ItV-eg4xsNY" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
         </div>
       </div>
     </section>
@@ -140,7 +140,7 @@
             <div class="card shadow-sm" style="width:100%; height:100%;">
               <img src="images/eleicoes/foto-cadidatos.jpg" class="img-fluid" alt="Hunney" style="height: 100%;">
               <div class="card-body">
-              <p class="card-text"><a href="#eleicoes" id="eleicoes">Eleicões para presidência.</a></p>
+              <p class="card-text"><a href="#eleicoes" id="eleicoes">Eleições para presidência.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   </div>
@@ -190,7 +190,7 @@
             <div class="card shadow-sm" style="width:100%; height:100%;">
               <img src="images/semana-estudante/semana-do-estudante.png" alt="hunney" style="height:100%;">
               <div class="card-body">
-                <p class="card-text"><a href="#semana-do-estudante">Semana do Estudante.</a></p>
+                <p class="card-text"><a href="#semana-do-estudante">Semana do estudante.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
                   <div class="btn-group">
                   </div>
