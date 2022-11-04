@@ -138,7 +138,7 @@
         <div class="row row-cols-1 row-cols-sm-2 row-cols-md-3 g-3">
           <div class="col col-lg col-md col-sm"  id="modalEleicoes">
             <div class="card shadow-sm" style="width:100%; height:100%;">
-              <img src="images/eleicoes/foto-cadidatos.jpg" class="img-fluid" alt="Hunney" style="height: 100%; max-height=600px;">
+              <img src="images/eleicoes/foto-cadidatos.jpg" class="img-fluid" alt="Hunney" style="height: 100%; max-height: 600px;">
               <div class="card-body">
               <p class="card-text"><a href="#eleicoes" id="eleicoes">Eleições para presidência.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -150,7 +150,7 @@
           </div>
           <div class="col col-lg col-md col-sm" id="modalInterclasse">
             <div class="card shadow-sm" style="width:100%; height:100%;">
-              <img src="images/esporte/esportes-no-hunney.png" alt="Hunney" style="height:100%; max-height=600px;">
+              <img src="images/esporte/esportes-no-hunney.png" alt="Hunney" style="height:100%; max-height: 600px;">
               <div class="card-body">
                 <p class="card-text"><a href="#esporte">Esportes.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -163,7 +163,7 @@
 
           <div class="col col-lg col-md col-sm" id="modalFeira">
             <div class="card shadow-sm" style="width:100%; height:100%;">
-              <img src="images/feira/feira-negocios-att.png" alt="hunney" style="height:100%; max-height=600px;">
+              <img src="images/feira/feira-negocios-att.png" alt="hunney" style="height:100%; max-height: 600px;">
               <div class="card-body">
                 <p class="card-text"><a href="#feira-de-negocios">1° Feira de negócios do Hunney.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -176,7 +176,7 @@
 
           <div class="col col-lg col-md col-sm" id="modalPalestra"> 
             <div class="card shadow-sm" style="width:100%; height:100%;">
-                <img src="images/palestra/sem-titulo.png" alt="hunney" style="height:100%; max-height=600px;">
+                <img src="images/palestra/sem-titulo.png" alt="hunney" style="height:100%; max-height: 600px;">
               <div class="card-body">
                 <p class="card-text"><a href="#palestra-prf">Palestra da PRF, no Hunney.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -188,7 +188,7 @@
           </div>
           <div class="col col-lg col-md col-sm" id="modalSemanaEstudante">
             <div class="card shadow-sm" style="width:100%; height:100%;">
-              <img src="images/semana-estudante/semana-do-estudante.png" alt="hunney" style="height:100%; max-height=600px;">
+              <img src="images/semana-estudante/semana-do-estudante.png" alt="hunney" style="height:100%; max-height: 600px;">
               <div class="card-body">
                 <p class="card-text"><a href="#semana-do-estudante">Semana do estudante.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
@@ -200,7 +200,7 @@
           </div>
           <div class="col col-lg col-md col-sm" id="modalInterclasseFut">
             <div class="card shadow-sm"style="width:100%; height:100%;">
-            <img src="images/hunney-everest-piovesan.png" alt="hunney" style="height:100%; max-height=600px;">
+            <img src="images/hunney-everest-piovesan.png" alt="hunney" style="height:100%; max-height: 600px;">
               <div class="card-body">
                 <p class="card-text"><a href="#interclasse-futsal">Notícias em breve.</a></p>
                 <div class="d-flex justify-content-between align-items-center">
